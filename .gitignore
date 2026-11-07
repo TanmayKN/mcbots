@@ -1,0 +1,11 @@
+node_modules/
+viaproxy/
+jars/
+plugins/
+logs/
+*.log
+*.yml
+saves.json
+server.txt
+proxy_target.txt
+.DS_Store
